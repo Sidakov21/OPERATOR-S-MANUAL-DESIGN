@@ -1,0 +1,25 @@
+<HTML>
+ <HEAD>
+  <META name="GENERATOR" content="htm2chm 3.0.9.3">
+  <!-- Sitemap 1.0 -->
+ </HEAD>
+<BODY>
+ <OBJECT type="text/site properties">
+  <PARAM name="Window Styles" value="0x800027">
+  <PARAM name="ImageType" value="Folder">
+ </OBJECT>
+<UL>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Часто задаваемые вопросы">
+  <PARAM name="Local" value="faq.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Работа с кампаниями">
+  <PARAM name="Local" value="campaigns_help.html">
+ </OBJECT>
+ <LI><OBJECT type="text/sitemap">
+  <PARAM name="Name" value="Общая информация">
+  <PARAM name="Local" value="general_info.html">
+ </OBJECT>
+</BODY>
+</HTML>
